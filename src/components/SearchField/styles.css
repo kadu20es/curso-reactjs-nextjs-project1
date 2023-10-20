@@ -1,0 +1,9 @@
+.search-input {
+    width: 100%;
+    font-size: 30px;
+    padding: 5px 10px;
+}
+
+.search-input[placeholder] {
+    font-size: 25px;
+}

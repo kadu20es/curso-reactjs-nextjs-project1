@@ -1,0 +1,22 @@
+
+
+button {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px 30px;
+    border: none;
+    background-color: #7fc55f;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
+    color: #ffffff;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #66964f;
+  }
+
+  .button:disabled {
+    background-color: #888;
+    cursor: not-allowed;
+  }
